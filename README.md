@@ -7,11 +7,11 @@ Paste the description of a project here:
 ---
 
 ## File structure
--- file: paste description 
-  -- sub-file: paste description 
--- file: paste description 
-  -- file: paste description 
--- file: paste description 
+- file: paste description
+    -  sub-file: paste description
+- file: paste description 
+    -  sub-file: paste description
+- file: paste description 
 
 ---
 
