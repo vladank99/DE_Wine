@@ -4,7 +4,7 @@ Paste the description of a project here:
 - problem statement & goals
 - brief description of a project as a solution to problen
   
----
+
 
 ## File structure
 - file: paste description
@@ -13,7 +13,7 @@ Paste the description of a project here:
     -  sub-file: paste description
 - file: paste description 
 
----
+
 
 ## How to use
 1. Paste text here
